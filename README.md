@@ -1,1 +1,1 @@
-# revanced-cli-howto-guide
+# revanced cli guide
