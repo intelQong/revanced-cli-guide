@@ -9,5 +9,5 @@
 ## Patch an APK (Download apk version not bundle)
 1. `java -jar revanced-cli.jar patch -p patches.rvp input.apk`
 
-_Move the `input-patched.apk` to your android phone and install 🎉 _
+_Move the `input-patched.apk` to your android phone and install 🎉_
    
